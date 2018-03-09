@@ -1,2 +1,2 @@
-# MuhammedCkr.github.io/Home.htm
+# MuhammedCkr.github.io
 # Bim 222 Homework 1
